@@ -13,6 +13,6 @@ summary: Deber instalar y configurar plugins personalizados de SnapCenter si des
 [role="lead"]
 Deber instalar y configurar plugins personalizados de SnapCenter si desea proteger los recursos de plugins personalizados.
 
-image::../media/scc_install_configure_workflow.png[instalar scc configurar el flujo de trabajo]
+image::../media/scc_install_configure_workflow.gif[instalar y configurar plugin]
 
 link:concept_develop_a_plug_in_for_your_application.html["Desarrolle un complemento para la aplicación"]

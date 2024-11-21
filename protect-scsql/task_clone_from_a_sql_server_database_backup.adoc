@@ -57,7 +57,7 @@ NOTE: No se admite la clonado del backup de una instancia.
 
 . Seleccione la base de datos o el grupo de recursos.
 . En la página Manage Copies view, seleccione el backup de un sistema de almacenamiento principal o secundario (reflejado o en almacén).
-. Seleccione el backup y, a continuación, haga clic en *image:../media/clone_icon.gif[""]*.
+. Seleccione el backup y haga clic en *image:../media/clone_icon.gif["el icono de clon"]*.
 . En la página Clone Options, realice las siguientes acciones:
 +
 |===

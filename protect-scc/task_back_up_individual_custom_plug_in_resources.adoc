@@ -24,7 +24,7 @@ Si un recurso de un plugin individual no forma parte de ningún grupo de recurso
 . En el panel de navegación de la izquierda, haga clic en *Recursos* y, a continuación, seleccione el plugin adecuado en la lista.
 . En la página Resources, filtre los recursos de la lista desplegable *View* en función del tipo de recurso.
 +
-Haga clic en image:../media/filter_icon.gif[""]y, a continuación, seleccione el nombre de host y el tipo de recurso para filtrar los recursos. A continuación, puede hacer clic en image:../media/filter_icon.gif[""] para cerrar el panel de filtros.
+Haga clic en image:../media/filter_icon.gif["icono de filtro"]y, a continuación, seleccione el nombre de host y el tipo de recurso para filtrar los recursos. A continuación, puede hacer clic en image:../media/filter_icon.gif["icono de filtro"] para cerrar el panel de filtros.
 
 . Haga clic en el recurso que desea incluir en el backup.
 . En la página Recursos , si desea utilizar un nombre personalizado, active la casilla de verificación *usar formato de nombre personalizado para copia Snapshot* y, a continuación, escriba un formato de nombre personalizado para el nombre de copia Snapshot.
@@ -58,7 +58,7 @@ Seleccione este campo para evitar forzar un punto de coherencia de WAFL.
 
 |===
 +
-image:../media/application_settings.gif[""]
+image:../media/application_settings.gif["configuración de la aplicación"]
 
 .. Haga clic en la flecha *Scripts* para ejecutar comandos previos y posteriores para la pausa, la copia de Snapshot y la reanudación de la copia. También puede ejecutar los comandos previos antes de salir de la operación de backup.
 +
@@ -98,12 +98,12 @@ Seleccione *otros* y, a continuación, escriba el comando para crear una copia S
 .. Seleccione una o varias políticas de la lista desplegable.
 +
 
-NOTE: También puede crear una política haciendo clic en image:../media/add_policy_from_resourcegroup.gif[""].
+NOTE: También puede crear una política haciendo clic en image:../media/add_policy_from_resourcegroup.gif["añada una política desde el grupo de recursos"].
 
 +
 En la sección Configure schedules for selected policies, se muestran las políticas seleccionadas.
 
-.. Haga clic en image:../media/add_policy_from_resourcegroup.gif[""] En la columna Configure Schedules correspondiente a la política para la cual se desea configurar una programación.
+.. Se debe hacer clic en image:../media/add_policy_from_resourcegroup.gif["añada una política desde el grupo de recursos"] en la columna Configure Schedules para la política cuya programación se desea configurar.
 .. En el cuadro de diálogo Agregar programas para la directiva _policy_name_ , configure la programación y, a continuación, haga clic en *Aceptar*.
 +
 Donde, _policy_name_ es el nombre de la directiva seleccionada.

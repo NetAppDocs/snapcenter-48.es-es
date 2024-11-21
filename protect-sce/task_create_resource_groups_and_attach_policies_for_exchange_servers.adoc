@@ -99,7 +99,7 @@ Los grupos de recursos de SnapCenter para Microsoft Exchange Server no pueden te
 .. Seleccione una o varias políticas de la lista desplegable.
 +
 
-NOTE: También puede crear una directiva haciendo clic en *image:../media/add_policy_from_resourcegroup.gif[""]*.
+NOTE: También puede crear una política haciendo clic en *image:../media/add_policy_from_resourcegroup.gif["añada una política desde el grupo de recursos"]*.
 
 +
 
@@ -108,7 +108,7 @@ NOTE: Si una directiva contiene la opción *copia de seguridad de copias en los 
 +
 En la sección Configure schedules for selected policies, se muestran las políticas seleccionadas.
 
-.. En la sección Configure schedules for selected policies, haga clic en *image:../media/add_policy_from_resourcegroup.gif[""]* En la columna *Configurar horarios* de la directiva para la que desea configurar la programación.
+.. En la sección Configure schedules for selected policies, haga clic en *image:../media/add_policy_from_resourcegroup.gif["añada una política desde el grupo de recursos"]* en la columna *Configure Schedules* de la política para la que desea configurar la programación.
 .. En el cuadro de diálogo Add schedules for policy _policy_name_, configure la programación especificando la fecha de inicio, la fecha de caducidad y la frecuencia y, a continuación, haga clic en *Aceptar*.
 +
 Debe hacerlo con cada frecuencia que figure en la política. Los horarios configurados se enumeran en la columna *programas aplicados* de la sección Configurar programaciones para directivas seleccionadas.
@@ -126,7 +126,7 @@ También debe especificar las direcciones de correo electrónico del remitente y
 Para habilitar la notificación por correo electrónico, debe tener especificados los detalles del servidor SNMP ya sea mediante la GUI o el comando de PowerShell `Set-SmSmtpServer`.
 
 +
-La información relativa a los parámetros que se pueden utilizar con el cmdlet y sus descripciones se puede obtener ejecutando _Get-Help nombre_comando_. Como alternativa, también puede consultar la https://library.netapp.com/ecm/ecm_download_file/ECMLP2885482["Guía de referencia de cmdlets de SnapCenter Software"^].
+La información relativa a los parámetros que se pueden utilizar con el cmdlet y sus descripciones se puede obtener ejecutando _Get-Help nombre_comando_. Alternativamente, también puede consultar la https://docs.netapp.com/us-en/snapcenter-cmdlets-48/index.html["Guía de referencia de cmdlets de SnapCenter Software"^].
 
 . Revise el resumen y, a continuación, haga clic en *Finalizar*.
 

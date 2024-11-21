@@ -15,6 +15,6 @@ SnapCenter permite restaurar bases de datos de Exchange mediante la restauració
 
 En el siguiente flujo de trabajo, se muestra la secuencia que debe seguirse para ejecutar las operaciones de restauración de bases de datos de Exchange:
 
-image:../media/all_plug_ins_restore_workflow.png[""]
+image:../media/add_policy_from_resourcegroup.gif["añada una política desde el grupo de recursos"][]
 
-También es posible usar los cmdlets de PowerShell manualmente o en scripts para ejecutar las operaciones de backup y restauración. Para obtener información detallada sobre los cmdlets de PowerShell, use la ayuda de cmdlets de SnapCenter o consulte https://library.netapp.com/ecm/ecm_download_file/ECMLP2885482["Guía de referencia de cmdlets de SnapCenter Software"^].
+También es posible usar los cmdlets de PowerShell manualmente o en scripts para ejecutar las operaciones de backup y restauración. Para obtener información detallada sobre los cmdlets de PowerShell, use la ayuda de cmdlets de SnapCenter o consulte https://docs.netapp.com/us-en/snapcenter-cmdlets-48/index.html["Guía de referencia de cmdlets de SnapCenter Software"^].

@@ -67,7 +67,7 @@ Si utiliza los plugins de personalizados de SnapCenter, no puede cambiar el nomb
 ** Si utiliza el paquete de plugins de SnapCenter para Linux y catalogó el backup con Oracle Recovery Manager (RMAN), no puede cambiar el nombre de esos backups catalogados.
 
 
-. Si desea eliminar un clon, selecciónelo en la tabla y haga clic en image:../media/delete_icon.gif[""] para eliminar el clon.
+. Si desea eliminar un clon, selecciónelo en la tabla y haga clic en image:../media/delete_icon.gif["icono de eliminar"] .
 
 
 *Ejemplo que muestra copias de seguridad y clones en el almacenamiento primario*
